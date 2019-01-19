@@ -1,7 +1,7 @@
 # ProtractorProjectDemo
 
-Pre-requisites & Setup Protractor Project on your Laptop
---------------------------------------------------------
+Pre-requisites & Setup Protractor Project on your Machine
+---------------------------------------------------------
 1. NPM Installation
 - Verify: npm -version 
 
