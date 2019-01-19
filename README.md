@@ -13,9 +13,9 @@ Pre-requisites:
 
 4. Setup IDE i.e. Visual Studio Code
 
-5. Create a Project folder and i.e. ProtractorProjectDemo
+5. Create a Project folder i.e. ProtractorProjectDemo
 
-6. Run 'npm init'
+6. Go to project folder and Run 'npm init'
 
 7. Copy the GitHubProject to your project folder
 
