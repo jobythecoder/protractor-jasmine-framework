@@ -2,10 +2,10 @@
 
 Pre-requisites:
 1. NPM Installation
-   Verify: npm -version 
+  Verify: npm -version 
 
 2. Protractor & WebDriver Manager Installations
-   npm install protractor
+npm install protractor
    install webdriver manager
    webdriver-manager update
    
