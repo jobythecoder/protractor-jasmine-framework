@@ -13,7 +13,7 @@ Pre-requisites:
 
 4. Setup IDE i.e. Visual Studio Code
 
-5. Create a Project folder and Run "Create Project Folder" i.e. ProtractorProjectDemo
+5. Create a Project folder and i.e. ProtractorProjectDemo
 
 6. Run 'npm init'
 
