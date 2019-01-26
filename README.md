@@ -1,7 +1,5 @@
-# ProtractorProjectDemo
-
-Pre-requisites & Setup Protractor Project on your Machine
----------------------------------------------------------
+# Setup Protractor & RUN THE TEST
+---------------------------------
 1. NPM Installation
 - Verify: npm -version 
 
