@@ -1,5 +1,5 @@
-# Setup Protractor & Jasmine Framework
---------------------------------------
+# Setup Protractor with Jasmine on your Laptop
+----------------------------------------------
 1. NPM Installation
 - Verify: npm -version 
 
