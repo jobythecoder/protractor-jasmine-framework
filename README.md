@@ -1,5 +1,5 @@
-# Setup Protractor & RUN THE TEST
----------------------------------
+# Setup Protractor & Jasmine Framework
+--------------------------------------
 1. NPM Installation
 - Verify: npm -version 
 
@@ -16,11 +16,9 @@
 
 6. Go to project folder and Run 'npm init'
 
-7. Copy the GitHubProject to your project folder
+7. Go to commandLine and Run 'npm install'
 
-8. Go to commandLine and Run 'npm install'
-
-9. Execute your Protractor TestSuite on commandLine 'Protractor conf.js'
+8. Execute your Protractor TestSuite on commandLine 'Protractor conf.js'
 
 *********************************
 Happy Coding in Protractor....!
